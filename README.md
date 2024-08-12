@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently VP Engineering @PrestaShopCorp
 
-- 💬 Ask me about **react, vue**
+- 💬 Ask me about **react, vue, DDD, CQRS & ES, Enterprise Architecture**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
