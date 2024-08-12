@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prxmat" alt="prxmat" /></a> </p>
 
-- 🔭 I’m currently VP Engineering @PrestaShop Corp
+- 🔭 I’m currently VP Engineering @PrestaShopCorp
 
 - 💬 Ask me about **react, vue**
 
