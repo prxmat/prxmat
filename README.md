@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mathieu</h1>
-<h3 align="center">VP Engineering (Plateform Engineering & Enterprise Architecture) @PrestaShopCorp | Full Remote | React.js addict, React native, Vue.js, Nest.js</h3>
+<h3 align="center">Adriane Founder  | Full Remote | React.js addict, React native, Vue.js, Nest.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prxmat&label=Profile%20views&color=0e75b6&style=flat" alt="prxmat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prxmat" alt="prxmat" /></a> </p>
 
-- 🔭 I’m currently VP Engineering @PrestaShopCorp
+- 🔭 I’m currently Founder of Adriane
 
 - 💬 Ask me about **react, vue, DDD, CQRS & ES, Enterprise Architecture**
 
